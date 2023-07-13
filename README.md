@@ -28,10 +28,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
+- Figma
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
+Devlinks é um agregador de links para usar como Cartão de Visitas online.
 
 ## 🔖 Layout
 
